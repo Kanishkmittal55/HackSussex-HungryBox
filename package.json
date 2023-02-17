@@ -4,7 +4,8 @@
   "description": "HungryBox-Complete-Web-app-codespaces",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node backend/index.js",
+    "server": "nodemon backend/index.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
