@@ -1,0 +1,20 @@
+{
+  "name": "hacksussex-hungrybox",
+  "version": "1.0.0",
+  "description": "HungryBox-Complete-Web-app-codespaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanishkmittal55/HackSussex-HungryBox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kanishkmittal55/HackSussex-HungryBox/issues"
+  },
+  "homepage": "https://github.com/Kanishkmittal55/HackSussex-HungryBox#readme"
+}
